@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.env
+.env.local
+.env.*.local
+
+# Production
+build/
+dist/
+
+# Misc
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Database
+mongodb_data/
+*.db
